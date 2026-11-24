@@ -1,1 +1,1 @@
-print("bibliotheque universitaire - v1.1 (correction affivhage)")
+print("bibliotheque universitaire - v2.1 (recherche rapide)")
